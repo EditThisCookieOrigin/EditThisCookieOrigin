@@ -18,12 +18,9 @@ Inspired by the lack of good cookie managers in Google Chrome, I developed this 
 * Limit the maximum expiration date of any cookie
 
 
-Contributing
---------------
-- Improve the translations or add new languages [here](http://www.getlocalization.com/editthiscookie/)
 
 
 How to Install
 --------------
 
-Install it on Chrome from [here](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbgf)
+Install it on Chrome from [here](https://chrome.google.com/webstore/detail/edit-this-cookieorigin/lacolljhddhajjlaobpkblmiihonnopp)
