@@ -1,4 +1,4 @@
-EditThisCookie
+EditThisCookie Origin
 ========================
 
 Description
@@ -26,4 +26,4 @@ Contributing
 How to Install
 --------------
 
-Install it on Chrome from [here](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg)
+Install it on Chrome from [here](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbgf)
